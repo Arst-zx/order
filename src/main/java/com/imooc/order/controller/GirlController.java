@@ -1,10 +1,10 @@
 package com.imooc.order.controller;
 
 import com.imooc.order.config.GirlConfig;
+import com.netflix.discovery.provider.Serializer;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RestController;
-import sun.plugin2.message.Serializer;
 
 /**
  * @Author: 章鑫
