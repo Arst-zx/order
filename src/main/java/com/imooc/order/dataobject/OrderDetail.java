@@ -1,7 +1,6 @@
 package com.imooc.order.dataobject;
 
 import lombok.Data;
-
 import javax.persistence.Entity;
 import javax.persistence.Id;
 import java.math.BigDecimal;

@@ -2,7 +2,6 @@ package com.imooc.order.dto;
 
 import com.imooc.order.dataobject.OrderDetail;
 import lombok.Data;
-
 import java.math.BigDecimal;
 import java.util.List;
 

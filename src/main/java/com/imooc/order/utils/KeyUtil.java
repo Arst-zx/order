@@ -1,10 +1,5 @@
 package com.imooc.order.utils;
 
-/**
- * @Author 章鑫
- * @Date 2018/8/28 15:52
- */
-
 import java.util.Random;
 
 /**

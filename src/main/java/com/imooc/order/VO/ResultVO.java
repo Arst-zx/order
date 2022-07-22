@@ -1,10 +1,5 @@
 package com.imooc.order.VO;
 
-/**
- * @Author 章鑫
- * @Date 2018/8/29 15:14
- */
-
 import lombok.Data;
 
 /**

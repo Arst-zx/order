@@ -15,7 +15,6 @@ import org.springframework.validation.BindingResult;
 import org.springframework.web.bind.annotation.PostMapping;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
-
 import javax.validation.Valid;
 import java.util.HashMap;
 import java.util.Map;
@@ -24,7 +23,6 @@ import java.util.Map;
  * @Author 章鑫
  * @Date 2018/8/27 15:52
  */
-
 @RestController
 @RequestMapping("/order")
 @Slf4j

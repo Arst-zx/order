@@ -1,14 +1,6 @@
 package com.imooc.order.dto;
 
-/**
- * @Author 章鑫
- * @Date 2018/8/30 15:32
- */
-
 import lombok.Data;
-import lombok.Getter;
-
-import javax.smartcardio.CardTerminal;
 
 /**
  * @Author: 章鑫

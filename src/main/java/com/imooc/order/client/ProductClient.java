@@ -1,17 +1,11 @@
 package com.imooc.order.client;
 
-/**
- * @Author 章鑫
- * @Date 2018/8/29 16:30
- */
-
 import com.imooc.order.dataobject.ProductInfo;
 import com.imooc.order.dto.CarDTO;
 import org.springframework.cloud.openfeign.FeignClient;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.PostMapping;
 import org.springframework.web.bind.annotation.RequestBody;
-
 import java.util.List;
 
 /**

@@ -1,10 +1,5 @@
 package com.imooc.order.service.impl;
 
-/**
- * @Author 章鑫
- * @Date 2018/8/27 16:44
- */
-
 import com.imooc.order.client.ProductClient;
 import com.imooc.order.dataobject.OrderDetail;
 import com.imooc.order.dataobject.OrderMaster;
@@ -20,7 +15,6 @@ import com.imooc.order.utils.KeyUtil;
 import org.springframework.beans.BeanUtils;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
-
 import javax.transaction.Transactional;
 import java.math.BigDecimal;
 import java.util.List;

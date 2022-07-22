@@ -1,10 +1,5 @@
 package com.imooc.order.controller;
 
-/**
- * @Author 章鑫
- * @Date 2018/9/11 16:29
- */
-
 import org.springframework.beans.factory.annotation.Value;
 import org.springframework.cloud.context.config.annotation.RefreshScope;
 import org.springframework.web.bind.annotation.GetMapping;

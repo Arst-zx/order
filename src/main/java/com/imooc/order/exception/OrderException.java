@@ -3,8 +3,8 @@ package com.imooc.order.exception;
 import com.imooc.order.enums.ResultEnum;
 
 /**
- * Created by 廖师兄
  * 2017-12-10 17:27
+ * @author 章鑫
  */
 public class OrderException extends RuntimeException {
 

@@ -1,10 +1,5 @@
 package com.imooc.order.config;
 
-/**
- * @Author 章鑫
- * @Date 2018/8/28 16:43
- */
-
 import org.springframework.cloud.client.loadbalancer.LoadBalanced;
 import org.springframework.context.annotation.Bean;
 import org.springframework.stereotype.Component;

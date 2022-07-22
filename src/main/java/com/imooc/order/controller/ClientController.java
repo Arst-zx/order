@@ -1,10 +1,5 @@
 package com.imooc.order.controller;
 
-/**
- * @Author 章鑫
- * @Date 2018/8/28 16:19
- */
-
 import com.imooc.order.client.ProductClient;
 import com.imooc.order.dataobject.ProductInfo;
 import com.imooc.order.dto.CarDTO;
@@ -13,7 +8,6 @@ import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.PostMapping;
 import org.springframework.web.bind.annotation.RestController;
-
 import java.util.Arrays;
 import java.util.List;
 
